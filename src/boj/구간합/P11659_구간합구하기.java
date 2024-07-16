@@ -1,4 +1,4 @@
-package boj;
+package boj.구간합;
 
 import java.io.BufferedReader;
 import java.io.IOException;
